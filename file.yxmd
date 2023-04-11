@@ -1,0 +1,2012 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">Historical Sales Report.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>True</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Historical Sales Report.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F2" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F3" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F4" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F5" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F6" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F7" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F8" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F9" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F10" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F11" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F12" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F13" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F14" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F15" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F16" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F17" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F18" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F19" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F20" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F21" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F22" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F23" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F24" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F25" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F26" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F27" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F28" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F29" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F30" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F31" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F32" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F33" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F34" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F35" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F36" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F37" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F38" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F39" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F40" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F41" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F42" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F43" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F44" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F45" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F46" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F47" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F48" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F49" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F50" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F51" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F52" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F53" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F54" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F55" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F56" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F57" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F58" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F59" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F60" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F61" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F62" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F63" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F64" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F65" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F66" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F67" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F68" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F69" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F70" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F71" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F72" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F73" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F74" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F75" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F76" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F77" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F78" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F79" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F80" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F81" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F82" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F83" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F84" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F85" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F86" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F87" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F88" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F89" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F90" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F91" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F92" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F93" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F94" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F95" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F96" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F97" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F98" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F99" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F100" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F101" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F102" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F103" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F104" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F105" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F106" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F107" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F108" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F109" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F110" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F111" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F112" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F113" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F114" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F115" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F116" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F117" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F118" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F119" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F120" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F121" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F122" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F123" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F124" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F125" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F126" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F127" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F128" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F129" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F130" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F131" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F132" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F133" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F134" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F135" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F136" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F137" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F138" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F139" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F140" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F141" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F142" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F143" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F144" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F145" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F146" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F147" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F148" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F149" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F150" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F151" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F152" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F153" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F154" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F155" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F156" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F157" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F158" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F159" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F160" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F161" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F162" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F163" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F164" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F165" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F166" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F167" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F168" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F169" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F170" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F171" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F172" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F173" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F174" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F175" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F176" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F177" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F178" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F179" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F180" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F181" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F182" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F183" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F184" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F185" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F186" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F187" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F188" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F189" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F190" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F191" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F192" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F193" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F194" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F195" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F196" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F197" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F198" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F199" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F200" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F201" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F202" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F203" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F204" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F205" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F206" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F207" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F208" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F209" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F210" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F211" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F212" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F213" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F214" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F215" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F216" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F217" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">Real Disposable Personal Income.xlsx|||`FRED Graph$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Real Disposable Personal Income.xlsx
+Table=`FRED Graph$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="FRED Graph Observations" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Real Disposable Personal Income.xlsx|||`FRED Graph$`" type="V_String" />
+            <Field name="F2" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\Real Disposable Personal Income.xlsx|||`FRED Graph$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings>
+        <Position x="186" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">10-</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings>
+        <Position x="174" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges"><![CDATA[3-
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="306" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="FRED Graph Observations" />
+            <Field name="F2" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="observation_date" size="255" source="File: C:\Users\Brian Lin\Desktop\Midterm (1)\Real Disposable Personal Income.xlsx|||`FRED Graph$`" type="V_String" />
+            <Field name="Income" size="255" source="File: C:\Users\Brian Lin\Desktop\Midterm (1)\Real Disposable Personal Income.xlsx|||`FRED Graph$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="318" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields />
+          <DataFields>
+            <Field field="F1" selected="True" />
+            <Field field="F2" selected="True" />
+            <Field field="F3" selected="True" />
+            <Field field="F4" selected="True" />
+            <Field field="F5" selected="True" />
+            <Field field="F6" selected="True" />
+            <Field field="F7" selected="True" />
+            <Field field="F8" selected="True" />
+            <Field field="F9" selected="True" />
+            <Field field="F10" selected="True" />
+            <Field field="F11" selected="True" />
+            <Field field="F12" selected="True" />
+            <Field field="F13" selected="True" />
+            <Field field="F14" selected="True" />
+            <Field field="F15" selected="True" />
+            <Field field="F16" selected="True" />
+            <Field field="F17" selected="True" />
+            <Field field="F18" selected="True" />
+            <Field field="F19" selected="True" />
+            <Field field="F20" selected="True" />
+            <Field field="F21" selected="True" />
+            <Field field="F22" selected="True" />
+            <Field field="F23" selected="True" />
+            <Field field="F24" selected="True" />
+            <Field field="F25" selected="True" />
+            <Field field="F26" selected="True" />
+            <Field field="F27" selected="True" />
+            <Field field="F28" selected="True" />
+            <Field field="F29" selected="True" />
+            <Field field="F30" selected="True" />
+            <Field field="F31" selected="True" />
+            <Field field="F32" selected="True" />
+            <Field field="F33" selected="True" />
+            <Field field="F34" selected="True" />
+            <Field field="F35" selected="True" />
+            <Field field="F36" selected="True" />
+            <Field field="F37" selected="True" />
+            <Field field="F38" selected="True" />
+            <Field field="F39" selected="True" />
+            <Field field="F40" selected="True" />
+            <Field field="F41" selected="True" />
+            <Field field="F42" selected="True" />
+            <Field field="F43" selected="True" />
+            <Field field="F44" selected="True" />
+            <Field field="F45" selected="True" />
+            <Field field="F46" selected="True" />
+            <Field field="F47" selected="True" />
+            <Field field="F48" selected="True" />
+            <Field field="F49" selected="True" />
+            <Field field="F50" selected="True" />
+            <Field field="F51" selected="True" />
+            <Field field="F52" selected="True" />
+            <Field field="F53" selected="True" />
+            <Field field="F54" selected="True" />
+            <Field field="F55" selected="True" />
+            <Field field="F56" selected="True" />
+            <Field field="F57" selected="True" />
+            <Field field="F58" selected="True" />
+            <Field field="F59" selected="True" />
+            <Field field="F60" selected="True" />
+            <Field field="F61" selected="True" />
+            <Field field="F62" selected="True" />
+            <Field field="F63" selected="True" />
+            <Field field="F64" selected="True" />
+            <Field field="F65" selected="True" />
+            <Field field="F66" selected="True" />
+            <Field field="F67" selected="True" />
+            <Field field="F68" selected="True" />
+            <Field field="F69" selected="True" />
+            <Field field="F70" selected="True" />
+            <Field field="F71" selected="True" />
+            <Field field="F72" selected="True" />
+            <Field field="F73" selected="True" />
+            <Field field="F74" selected="True" />
+            <Field field="F75" selected="True" />
+            <Field field="F76" selected="True" />
+            <Field field="F77" selected="True" />
+            <Field field="F78" selected="True" />
+            <Field field="F79" selected="True" />
+            <Field field="F80" selected="True" />
+            <Field field="F81" selected="True" />
+            <Field field="F82" selected="True" />
+            <Field field="F83" selected="True" />
+            <Field field="F84" selected="True" />
+            <Field field="F85" selected="True" />
+            <Field field="F86" selected="True" />
+            <Field field="F87" selected="True" />
+            <Field field="F88" selected="True" />
+            <Field field="F89" selected="True" />
+            <Field field="F90" selected="True" />
+            <Field field="F91" selected="True" />
+            <Field field="F92" selected="True" />
+            <Field field="F93" selected="True" />
+            <Field field="F94" selected="True" />
+            <Field field="F95" selected="True" />
+            <Field field="F96" selected="True" />
+            <Field field="F97" selected="True" />
+            <Field field="F98" selected="True" />
+            <Field field="F99" selected="True" />
+            <Field field="F100" selected="True" />
+            <Field field="F101" selected="True" />
+            <Field field="F102" selected="True" />
+            <Field field="F103" selected="True" />
+            <Field field="F104" selected="True" />
+            <Field field="F105" selected="True" />
+            <Field field="F106" selected="True" />
+            <Field field="F107" selected="True" />
+            <Field field="F108" selected="True" />
+            <Field field="F109" selected="True" />
+            <Field field="F110" selected="True" />
+            <Field field="F111" selected="True" />
+            <Field field="F112" selected="True" />
+            <Field field="F113" selected="True" />
+            <Field field="F114" selected="True" />
+            <Field field="F115" selected="True" />
+            <Field field="F116" selected="True" />
+            <Field field="F117" selected="True" />
+            <Field field="F118" selected="True" />
+            <Field field="F119" selected="True" />
+            <Field field="F120" selected="True" />
+            <Field field="F121" selected="True" />
+            <Field field="F122" selected="True" />
+            <Field field="F123" selected="True" />
+            <Field field="F124" selected="True" />
+            <Field field="F125" selected="True" />
+            <Field field="F126" selected="True" />
+            <Field field="F127" selected="True" />
+            <Field field="F128" selected="True" />
+            <Field field="F129" selected="True" />
+            <Field field="F130" selected="True" />
+            <Field field="F131" selected="True" />
+            <Field field="F132" selected="True" />
+            <Field field="F133" selected="True" />
+            <Field field="F134" selected="True" />
+            <Field field="F135" selected="True" />
+            <Field field="F136" selected="True" />
+            <Field field="F137" selected="True" />
+            <Field field="F138" selected="True" />
+            <Field field="F139" selected="True" />
+            <Field field="F140" selected="True" />
+            <Field field="F141" selected="True" />
+            <Field field="F142" selected="True" />
+            <Field field="F143" selected="True" />
+            <Field field="F144" selected="True" />
+            <Field field="F145" selected="True" />
+            <Field field="F146" selected="True" />
+            <Field field="F147" selected="True" />
+            <Field field="F148" selected="True" />
+            <Field field="F149" selected="True" />
+            <Field field="F150" selected="True" />
+            <Field field="F151" selected="True" />
+            <Field field="F152" selected="True" />
+            <Field field="F153" selected="True" />
+            <Field field="F154" selected="True" />
+            <Field field="F155" selected="True" />
+            <Field field="F156" selected="True" />
+            <Field field="F157" selected="True" />
+            <Field field="F158" selected="True" />
+            <Field field="F159" selected="True" />
+            <Field field="F160" selected="True" />
+            <Field field="F161" selected="True" />
+            <Field field="F162" selected="True" />
+            <Field field="F163" selected="True" />
+            <Field field="F164" selected="True" />
+            <Field field="F165" selected="True" />
+            <Field field="F166" selected="True" />
+            <Field field="F167" selected="True" />
+            <Field field="F168" selected="True" />
+            <Field field="F169" selected="True" />
+            <Field field="F170" selected="True" />
+            <Field field="F171" selected="True" />
+            <Field field="F172" selected="True" />
+            <Field field="F173" selected="True" />
+            <Field field="F174" selected="True" />
+            <Field field="F175" selected="True" />
+            <Field field="F176" selected="True" />
+            <Field field="F177" selected="True" />
+            <Field field="F178" selected="True" />
+            <Field field="F179" selected="True" />
+            <Field field="F180" selected="True" />
+            <Field field="F181" selected="True" />
+            <Field field="F182" selected="True" />
+            <Field field="F183" selected="True" />
+            <Field field="F184" selected="True" />
+            <Field field="F185" selected="True" />
+            <Field field="F186" selected="True" />
+            <Field field="F187" selected="True" />
+            <Field field="F188" selected="True" />
+            <Field field="F189" selected="True" />
+            <Field field="F190" selected="True" />
+            <Field field="F191" selected="True" />
+            <Field field="F192" selected="True" />
+            <Field field="F193" selected="True" />
+            <Field field="F194" selected="True" />
+            <Field field="F195" selected="True" />
+            <Field field="F196" selected="True" />
+            <Field field="F197" selected="True" />
+            <Field field="F198" selected="True" />
+            <Field field="F199" selected="True" />
+            <Field field="F200" selected="True" />
+            <Field field="F201" selected="True" />
+            <Field field="F202" selected="True" />
+            <Field field="F203" selected="True" />
+            <Field field="F204" selected="True" />
+            <Field field="F205" selected="True" />
+            <Field field="F206" selected="True" />
+            <Field field="F207" selected="True" />
+            <Field field="F208" selected="True" />
+            <Field field="F209" selected="True" />
+            <Field field="F210" selected="True" />
+            <Field field="F211" selected="True" />
+            <Field field="F212" selected="True" />
+            <Field field="F213" selected="True" />
+            <Field field="F214" selected="True" />
+            <Field field="F215" selected="True" />
+            <Field field="F216" selected="True" />
+            <Field field="F217" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings>
+        <Position x="450" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">-217</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings>
+        <Position x="450" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">218-434</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings>
+        <Position x="450" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">435-</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.JoinMultiple.JoinMultiple">
+        <Position x="642" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <JoinByRecPos value="False" />
+          <JoinFields>
+            <JoinInfo connection="#1">
+              <Field field="Name" />
+            </JoinInfo>
+            <JoinInfo connection="#2">
+              <Field field="Name" />
+            </JoinInfo>
+            <JoinInfo connection="#3">
+              <Field field="Name" />
+            </JoinInfo>
+          </JoinFields>
+          <CartesianMode>Error</CartesianMode>
+          <OutputJoinOnly value="False" />
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Input_#1_Name" selected="False" />
+                <SelectField field="Input_#1_Value" selected="True" rename="Date" type="Date" size="10" />
+                <SelectField field="Input_#2_Name" selected="False" rename="Input_#2_Name" />
+                <SelectField field="Input_#2_Value" selected="True" rename="Sales" />
+                <SelectField field="Input_#3_Name" selected="False" rename="Input_#3_Name" />
+                <SelectField field="Input_#3_Value" selected="True" rename="Price" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoinMultiple" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="834" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Date" />
+            <Field name="Sales" />
+            <Field name="Price" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" source="File: C:\Users\Brian Lin\Desktop\Midterm (1)\Historical Sales Report.xlsx|||`Sheet1$`" type="Date" />
+            <Field name="Sales" size="255" source="File: C:\Users\Brian Lin\Desktop\Midterm (1)\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Price" size="255" source="File: C:\Users\Brian Lin\Desktop\Midterm (1)\Historical Sales Report.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="726" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Date" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Date - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1038" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Field_1" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="observation_date" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Field_1" selected="True" rename="Metric" input="Left_" />
+                <SelectField field="Right_observation_date" selected="False" input="Right_" />
+                <SelectField field="Right_Income" selected="True" input="Right_" type="Double" size="8" />
+                <SelectField field="Left_Metric" selected="False" rename="Left_Metric" input="Left_" type="Date" size="10" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="90">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="930" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Sales" selected="True" type="Double" size="8" />
+            <SelectField field="Price" selected="True" type="Double" size="8" />
+            <SelectField field="F1" selected="False" />
+            <SelectField field="Metric" selected="True" type="Date" size="10" />
+            <SelectField field="Name" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="92">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="930" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="observation_date" selected="True" type="Date" size="10" />
+            <SelectField field="Income" selected="True" type="Float" size="4" />
+            <SelectField field="Name" selected="False" />
+            <SelectField field="Date" selected="False" type="Date" size="10" />
+            <SelectField field="Sales" selected="False" type="Float" size="4" />
+            <SelectField field="Price" selected="False" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1085" y="328" width="1501" height="674" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>without dummy variable</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="40">
+          <GuiSettings Plugin="Linear_Regression">
+            <Position x="1494" y="545" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="curPage">Home</Value>
+              <Value name="curTab">advanced</Value>
+              <Value name="standardize_pred">True</Value>
+              <Value name="internal_cv">True</Value>
+              <Value name="display_graphs">True</Value>
+              <Value name="set_seed_internal_cv">True</Value>
+              <Value name="set_seed_external_cv">True</Value>
+              <Value name="lambda_1se">True</Value>
+              <Value name="lambda_min">False</Value>
+              <Value name="Model Name">Linear_Regression_36</Value>
+              <Value name="Y Var">Sales</Value>
+              <Value name="X Vars">Price,Income,Month</Value>
+              <Value name="Omit Constant">False</Value>
+              <Value name="Use Weights">False</Value>
+              <Value name="Weight Vec" />
+              <Value name="regularization">False</Value>
+              <Value name="alpha">0.5</Value>
+              <Value name="nfolds">5</Value>
+              <Value name="lambda">lambda_1se</Value>
+              <Value name="seed_internal_cv">1</Value>
+              <Value name="lambda_no_cv">0.5</Value>
+              <Value name="external_cv">False</Value>
+              <Value name="nfolds_external">5</Value>
+              <Value name="numberTrials">3</Value>
+              <Value name="external_seed_value">1</Value>
+              <Value name="graph.resolution">1x</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Linear_Regression_36</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Linear_Regression/Supporting_Macros/Linear_Regression.yxmc" EngineDll="Macro" EngineDllEntryPoint="Linear_Regression/Supporting_Macros/Linear_Regression.yxmc" />
+        </Node>
+        <Node ToolID="41">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1602" y="546" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_f035ca54ff821744b5ac8d682481dd28~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1602" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_b57c8048150d4441bff1051f9254910f~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="1266" y="378" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Metric" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Metric - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1362" y="377" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="DateTimeMonth([Metric])" field="Month" size="64" type="String" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Month = DateTimeMonth([Metric])
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="48">
+          <GuiSettings>
+            <Position x="1518" y="690" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="mod_name" />
+              <Value name="target_field">Income</Value>
+              <Value name="use_covar">False</Value>
+              <Value name="covars">"Sales", "Price", "Income"</Value>
+              <Value name="use_covar_mean">True</Value>
+              <Value name="use_covar_diff">False</Value>
+              <Value name="freq_hourly">False</Value>
+              <Value name="freq_daily">False</Value>
+              <Value name="freq_weekdays">False</Value>
+              <Value name="freq_weekly">False</Value>
+              <Value name="freq_monthly">True</Value>
+              <Value name="freq_quarterly">False</Value>
+              <Value name="freq_annually">False</Value>
+              <Value name="freq_other">False</Value>
+              <Value name="custom_auto">False</Value>
+              <Value name="first_dif">False</Value>
+              <Value name="level_first_dif">0</Value>
+              <Value name="max_p">2</Value>
+              <Value name="max_q">2</Value>
+              <Value name="seas_dif">False</Value>
+              <Value name="level_seas_dif">0</Value>
+              <Value name="s_max_P">1</Value>
+              <Value name="s_max_Q">1</Value>
+              <Value name="ic_aic">False</Value>
+              <Value name="ic_aicc">True</Value>
+              <Value name="ic_bic">False</Value>
+              <Value name="full_enum">False</Value>
+              <Value name="max_order">5</Value>
+              <Value name="m_core">False</Value>
+              <Value name="drift">True</Value>
+              <Value name="box_cox">False</Value>
+              <Value name="lambda">0.00</Value>
+              <Value name="full_custom">False</Value>
+              <Value name="p">0</Value>
+              <Value name="d">0</Value>
+              <Value name="q">0</Value>
+              <Value name="S_P">0</Value>
+              <Value name="S_D">0</Value>
+              <Value name="S_Q">0</Value>
+              <Value name="m_drift">False</Value>
+              <Value name="m_box_cox">False</Value>
+              <Value name="m_lambda">0.00</Value>
+              <Value name="series_start">False</Value>
+              <Value name="start_year">1980</Value>
+              <Value name="start_month_qtr">1</Value>
+              <Value name="forecast_periods">6</Value>
+              <Value name="alteryx.week.US">True</Value>
+              <Value name="alteryx.week.UK">False</Value>
+              <Value name="alteryx.week.ISO8601">False</Value>
+              <Value name="inches">True</Value>
+              <Value name="in.w">5.00</Value>
+              <Value name="in.h">5.50</Value>
+              <Value name="centimeters">False</Value>
+              <Value name="cm.w">13.00</Value>
+              <Value name="cm.h">14.95</Value>
+              <Value name="graph.resolution">1x</Value>
+              <Value name="pointsize">10</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Predictive Tools\ARIMA.yxmc" />
+        </Node>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1698" y="690" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_d76c5e787010874c8a3640258dc58366~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="50">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1698" y="762" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_8911d2e3ed4d604085e8f83413c8093c~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="51">
+          <GuiSettings>
+            <Position x="1710" y="630" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="forecast">forecast</Value>
+              <Value name="large_conf">95</Value>
+              <Value name="small_conf">80</Value>
+              <Value name="horizon">12</Value>
+              <Value name="inches">True</Value>
+              <Value name="in.w">5.50</Value>
+              <Value name="in.h">5.50</Value>
+              <Value name="centimeters">False</Value>
+              <Value name="cm.w">13.00</Value>
+              <Value name="cm.h">14.95</Value>
+              <Value name="graph.resolution">1x</Value>
+              <Value name="pointsize">10</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Period" source="R-Data:" type="Double" />
+                <Field name="Sub_Period" source="R-Data:" type="Int32" />
+                <Field name="forecast" source="R-Data:" type="Double" />
+                <Field name="forecast_high_95" source="R-Data:" type="Double" />
+                <Field name="forecast_high_80" source="R-Data:" type="Double" />
+                <Field name="forecast_low_80" source="R-Data:" type="Double" />
+                <Field name="forecast_low_95" source="R-Data:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="Interactive Viz">
+              <RecordInfo>
+                <Field name="Text" size="1073741823" source="Report:Text:" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="Report">
+              <RecordInfo>
+                <Field name="Report" size="1073741823" source="Report: (Multiple Sources)" type="V_WString" />
+                <Field name="Desc" size="64" source="Formula: (Multiple Sources)" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings Macro="Predictive Tools\TS_Forecast.yxmc" />
+        </Node>
+        <Node ToolID="52">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1794" y="630" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_1e7757a0af91ba4a9addf2c70fb671b2~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="53">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1794" y="678" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_e6e95a0868a9c246aa90f54f6a357602~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="64">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1794" y="582" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="forecast_high_95" selected="False" />
+                <SelectField field="forecast_high_80" selected="False" />
+                <SelectField field="forecast_low_80" selected="False" />
+                <SelectField field="forecast_low_95" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="1146" y="857" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">2023 Pricing Strategy.xlsx|||`Sheet1$`</File>
+              <FormatSpecificOptions>
+                <FirstRowData>True</FirstRowData>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>2023 Pricing Strategy.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="F1" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F2" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F3" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F4" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F5" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F6" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F7" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F8" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F9" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F10" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F11" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F12" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F13" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="55">
+          <GuiSettings>
+            <Position x="1230" y="858" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Ranges">3-</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="SelectRecords.yxmc" />
+        </Node>
+        <Node ToolID="56">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+            <Position x="1350" y="858" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ErrorWarn>Warn</ErrorWarn>
+              <KeyFields />
+              <DataFields>
+                <Field field="F1" selected="True" />
+                <Field field="F2" selected="True" />
+                <Field field="F3" selected="True" />
+                <Field field="F4" selected="True" />
+                <Field field="F5" selected="True" />
+                <Field field="F6" selected="True" />
+                <Field field="F7" selected="True" />
+                <Field field="F8" selected="True" />
+                <Field field="F9" selected="True" />
+                <Field field="F10" selected="True" />
+                <Field field="F11" selected="True" />
+                <Field field="F12" selected="True" />
+                <Field field="F13" selected="True" />
+                <Field field="*Unknown" selected="True" />
+              </DataFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+        </Node>
+        <Node ToolID="58">
+          <GuiSettings>
+            <Position x="1434" y="857" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Ranges">1-13</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="SelectRecords.yxmc" />
+        </Node>
+        <Node ToolID="59">
+          <GuiSettings>
+            <Position x="1434" y="918" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Ranges">14-</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="SelectRecords.yxmc" />
+        </Node>
+        <Node ToolID="60">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="1578" y="882" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Name" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Name" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Left_Name" selected="False" input="Left_" />
+                    <SelectField field="Left_Value" selected="True" rename="Date" input="Left_" />
+                    <SelectField field="Right_Name" selected="False" rename="Right_Name" input="Right_" />
+                    <SelectField field="Right_Value" selected="True" rename="Price" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="61">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+            <Position x="1698" y="894" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <RenameMode>FirstRow</RenameMode>
+              <Fields orderChanged="False">
+                <Field name="Date" />
+                <Field name="Price" />
+                <Field name="*Unknown" />
+              </Fields>
+              <Expression />
+              <FirstRow>
+                <OnError>Warn</OnError>
+              </FirstRow>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Date" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Price" size="255" source="File: Y:\Dropbox (DECIPHER)\UCI Business Analytics MSBA\UCI 2023\COURSE MATERIAL MP 2023\WEEK 06\Midterm\2023 Pricing Strategy.xlsx|||`Sheet1$`" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+        </Node>
+        <Node ToolID="68">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+            <Position x="1902" y="582" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldName>RecordID</FieldName>
+              <StartValue>1</StartValue>
+              <FieldType>Int32</FieldType>
+              <FieldSize>6</FieldSize>
+              <Position>0</Position>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+        </Node>
+        <Node ToolID="70">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="2058" y="786" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="RecordID" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="RecordID" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="True" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Left_RecordID" selected="False" input="Left_" />
+                    <SelectField field="Left_Period" selected="False" input="Left_" />
+                    <SelectField field="Left_Sub_Period" selected="False" input="Left_" />
+                    <SelectField field="Right_Date" selected="True" input="Right_" />
+                    <SelectField field="Left_forecast" selected="True" rename="Income" input="Left_" />
+                    <SelectField field="Right_Price" selected="True" input="Right_" />
+                    <SelectField field="Right_RecordID" selected="False" rename="Right_RecordID" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="77">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="2394" y="786" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Date" selected="True" />
+                <SelectField field="Month" selected="True" />
+                <SelectField field="Income" selected="True" />
+                <SelectField field="Price" selected="True" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="78">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="1794" y="894" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Date" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Date - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="79">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+            <Position x="1986" y="894" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldName>RecordID</FieldName>
+              <StartValue>1</StartValue>
+              <FieldType>Int32</FieldType>
+              <FieldSize>6</FieldSize>
+              <Position>0</Position>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1158" y="378" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression=" LOG([Sales])" field="Sales" size="8" type="Double" />
+                <FormulaField expression=" LOG([Income])" field="Income" size="8" type="Double" />
+                <FormulaField expression=" LOG([Price])" field="Price" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Sales =  LOG([Sales])
+Income =  LOG([Income])
+Price =  LOG([Price])
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="82">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="2166" y="786" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="DateTimeMonth([Date])" field="Month" size="64" type="String" />
+                <FormulaField expression=" LOG([Price])" field="Price" size="8" type="Double" />
+                <FormulaField expression="LOG([Income])" field="Income" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Month = DateTimeMonth([Date])
+Price =  LOG([Price])
+Income = LOG([Income])
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="94">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1890" y="894" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Date" selected="True" type="Date" size="10" />
+                <SelectField field="Price" selected="True" type="Double" size="8" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="96">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1266" y="701" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression><![CDATA[DateTimeYear([Metric]) >= 2018
+]]></Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[DateTimeYear([Metric]) >= 2018
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="97">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="1350" y="690" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Metric" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Metric - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="98">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="2286" y="786" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Date" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Date - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="75">
+          <GuiSettings Plugin="Score">
+            <Position x="2310" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="modelChoice">Local Model</Value>
+              <Value name="score field">Sales</Value>
+              <Value name="is oversampled">False</Value>
+              <Value name="oversampled value">
+              </Value>
+              <Value name="original percent">2</Value>
+              <Value name="log y">False</Value>
+              <Value name="prediction.interval">False</Value>
+              <Value name="interval.level">95</Value>
+              <Value name="append.xdf">False</Value>
+              <Value name="num.records">256000</Value>
+              <Value name="credentials">
+              </Value>
+              <Value name="models">
+              </Value>
+              <Value name="page">
+              </Value>
+              <Value name="errorStatus">
+              </Value>
+              <Value name="modelDetailJSON">
+              </Value>
+              <Value name="modelDetails">{"Name":"","Owner":"","Status":"","Id":"","LastDeployment":"","LastUpdated":"","LatestVersion":"","ActiveVersion":"","NumReplications":"","NumVersions":""}</Value>
+              <Value name="promoteURL">
+              </Value>
+              <Value name="username">
+              </Value>
+              <Value name="model_name">
+              </Value>
+              <Value name="model_owner">
+              </Value>
+              <Value name="apiKey">
+              </Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Score\Supporting_Macros\score-engine.yxmc" EngineDll="Macro" EngineDllEntryPoint="Score\Supporting_Macros\score-engine.yxmc" />
+        </Node>
+        <Node ToolID="80">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="2382" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="EXP([Sales])" field="Sales" size="8" type="Double" />
+                <FormulaField expression="EXP([Price])" field="Price" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Sales = EXP([Sales])
+Price = EXP([Price])
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="81">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="2502" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\BRIANL~1\AppData\Local\Temp\Engine_19176_86b9327be6b2bd4aa0a7fa2ff444d21a_\Engine_19176_c2df4194dd63c341b013577043cf4f44~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="99">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="1110" y="570" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Metric" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Metric - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="18" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="92" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="90" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="32" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Join" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Join" />
+      <Destination ToolID="96" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Join" />
+      <Destination ToolID="99" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="90" Connection="Output" />
+      <Destination ToolID="35" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="92" Connection="Output" />
+      <Destination ToolID="35" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="75" Connection="Data" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="77" Connection="Output" />
+      <Destination ToolID="75" Connection="Model" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Reports" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Interactive Report" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Report" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Interactive" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Report" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Interactive Viz" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="55" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="60" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="60" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Join" />
+      <Destination ToolID="61" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="78" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="70" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="79" Connection="Output" />
+      <Destination ToolID="70" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="70" Connection="Join" />
+      <Destination ToolID="82" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="78" Connection="Output" />
+      <Destination ToolID="94" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="82" Connection="Output" />
+      <Destination ToolID="98" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="94" Connection="Output" />
+      <Destination ToolID="79" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="96" Connection="True" />
+      <Destination ToolID="97" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="97" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="98" Connection="Output" />
+      <Destination ToolID="77" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="75" Connection="Output" />
+      <Destination ToolID="80" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="80" Connection="Output" />
+      <Destination ToolID="81" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Midterm Exercise_TingHan Lin</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="a5fb963b-0c35-491a-a0b3-d49b29ae1fc6" />
+      <Telemetry>
+        <PreviousWorkflowId value="08de85ce-6e68-47c6-839f-7fabf7774d3c" />
+        <OriginWorkflowId value="08de85ce-6e68-47c6-839f-7fabf7774d3c" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
